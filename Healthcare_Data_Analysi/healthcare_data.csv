@@ -1,0 +1,8 @@
+PatientID,Age,Gender,Disease,BloodPressure,Cholesterol,Diabetes
+1,45,Male,Heart Disease,140,240,Yes
+2,30,Female,Diabetes,130,220,Yes
+3,60,Male,Heart Disease,150,260,No
+4,25,Female,Flu,120,180,No
+5,50,Male,Diabetes,145,250,Yes
+6,40,Female,Flu,118,175,No
+7,65,Male,Heart Disease,160,280,Yes
